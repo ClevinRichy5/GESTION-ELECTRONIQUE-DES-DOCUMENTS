@@ -1,0 +1,47 @@
+.navbar {
+    background-color: #044b0a;
+    padding: 0.5rem;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .navbar-toggler {
+    border-color: #ced4da;
+  }
+  
+  .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M3 18h18v-2H3z'/%3E%3Cpath d='M4.5 12l8.5 8.5-8.5 8.5L4.5 12z'%3E%3C/path%3E%3C/svg%3E");
+  }
+  
+  .navbar-nav {
+    justify-content: space-between;
+  }
+  
+  .nav-link {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .nav-link:hover {
+    color: #00698f;
+  }
+  
+  .dropdown-menu {
+    background-color: #f9f9f9;
+    border: none;
+  }
+  
+  .dropdown-item {
+    padding: .25rem .5rem;
+  }
+  
+  .dropdown-divider {
+    border-bottom: 1px solid #dee2e6;
+  } 
+.deconnexion{
+  margin-left: 540%;
+}
+
